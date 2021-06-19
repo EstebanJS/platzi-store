@@ -11,7 +11,7 @@ git:
   depth: 3
 
 script:
-  - yarm build
+  - yarn build
 
 deploy:
   provider: pages
