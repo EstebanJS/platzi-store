@@ -1,6 +1,6 @@
 languaje: node_js
 cache:
-  directories
+  directories:
     - node_modules
     - ~/.npm
 
